@@ -1,5 +1,5 @@
-<img src="![WhatsApp Image 2025-01-01 at 6 29 11 PM (1)](https://github.com/user-attachments/assets/0386e7df-919b-4274-8cf4-4bf29f85831b)
-="840" height="200" allow="autoplay">
+<img src="https://github.com/user-attachments/assets/0386e7df-919b-4274-8cf4-4bf29f85831b" width="840" height="200" alt="WhatsApp Image" allow="autoplay">
+
 <h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
