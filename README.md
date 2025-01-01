@@ -1,4 +1,14 @@
-<img src="https://github.com/user-attachments/assets/0386e7df-919b-4274-8cf4-4bf29f85831b" width="840" height="200" alt="WhatsApp Image" allow="autoplay">
+![Header](./github-header-image.png)
+
+---
+
+
+
+https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
+
+---
+
+
 
 <h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
