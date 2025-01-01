@@ -35,16 +35,18 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankajhatheanalyst&show_icons=true&locale=en" alt="priyankajhatheanalyst" /></p>
 
+---
+
 <!-- GitHub Stats -->
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovkushBind&layout=compact&theme=cobalt" alt=LovkushBind />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LovkushBind&show_icons=true&locale=en&theme=cobalt" alt="LovkushBind" />
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LovkushBind&theme=cobalt" alt="LovkushBind" />
-y
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThecoderPinar&layout=compact&theme=cobalt" alt=ThecoderPinar />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThecoderPinar&show_icons=true&locale=en&theme=cobalt" alt="ThecoderPinar" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThecoderPinar&theme=cobalt" alt="ThecoderPinar" />
 </div>
 
 ---
+
 
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
