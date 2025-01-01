@@ -40,7 +40,8 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovkushBind&layout=compact&theme=cobalt" alt=LovkushBind />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LovkushBind&show_icons=true&locale=en&theme=cobalt" alt="LovkushBind" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LovkushBind&theme=cobalt" alt="LovkushBind" />
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LovkushBind&theme=cobalt" alt="LovkushBind" />
+y
 </div>
 
 ---
@@ -48,26 +49,12 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LovkushBind&theme=dracula"/>
 </div>
 
 ---
 
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
 
----
-
-<!-- Spotify Data Card -->
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp4diy5vjb7iaj2kpha4foyree">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp4diy5vjb7iaj2kpha4foyree" alt="Data Card for Spotify">
-</a>
-
----
-
-![image](https://github.com/user-attachments/assets/b8e41412-8a82-415c-9846-44350d30aac9)
 
 ---
 
@@ -84,3 +71,4 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
     <img src="https://visitcount.itsvg.in/api?id=ThecoderPinar&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
   </a>
 </div>
+
