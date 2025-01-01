@@ -16,14 +16,14 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 ## 💫 About Me
 - 🔬 **Specialization:** Data analysis, machine learning, and predictive modeling.
-- 📊 **Experience:** Enriched with projects like Quantum Matlab Hub and Spotify Trends 2023 Analysis.
+- 📊 **Experience:** Enriched with projects like Quantum Matlab Hub and Spotify Trends 2025 Analysis.
 - 💡 **Philosophy:** Believer in the power of data to drive informed decisions and improve businesses.
 - 🌱 **Lifelong Learner:** Continuously learning and staying up-to-date with the latest advancements in the field.
 - 👨‍💻 **Technical Skills:** Proficient in Python, SQL, and various data science libraries and tools.
 - 🤝 **Collaboration:** Open to collaborations and discussions on projects related to data science, machine learning, and artificial intelligence.
 - 📈 **Goal:** Making data science accessible and impactful for everyone.
 - ✨ **Mentorship:** Passionate about mentoring and sharing knowledge with the community.
-- 💪 **Advocacy:** Advocate for women in technology and breaking gender barriers.
+
 
 ---
 
@@ -31,9 +31,6 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankajhatheanalyst&show_icons=true&locale=en&layout=compact" alt="priyankajhatheanalyst" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankajhatheanalyst&show_icons=true&locale=en" alt="priyankajhatheanalyst" /></p>
 
 ---
 
