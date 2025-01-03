@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2025-01-03 at 8.07.27 PM.jpeg" width="840" height="300" allow="autoplay">
+![Header](https://example.com/image.jpg)
 
 ---
 
