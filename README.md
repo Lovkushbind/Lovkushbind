@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
+<img src="WhatsApp Image 2025-01-03 at 8.07.27 PM.jpeg" width="840" height="300" allow="autoplay">
 
 ---
 
