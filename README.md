@@ -111,7 +111,10 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 <!-- Profile Views -->
 <div align="center" style="margin-top: 40px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ThecoderPinar&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=Lovkushbind&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" 
+         alt="Profile Views" 
+         style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
+  <p style="font-size: 14px; color: #555;">Click to view detailed stats</p>
 </div>
