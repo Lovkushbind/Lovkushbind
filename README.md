@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 ---
 
+
 ## 🔭 What I'm Currently Working On
 - **HMS Brain Activity Analysis**
 - **Big Tech Financial Insights**
@@ -68,10 +69,21 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <!-- GitHub Stats -->
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkushbind&layout=compact&theme=cobalt" alt=Lovkushbind />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lovkushbind&show_icons=true&locale=en&theme=cobalt" alt="Lovkushbind" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lovkushbind&theme=cobalt" alt="Lovkushbind" />
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkushbind&layout=compact&theme=cobalt" alt="Top Languages" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lovkushbind&show_icons=true&locale=en&theme=cobalt" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lovkushbind&theme=cobalt" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
