@@ -32,7 +32,6 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ---
-
 <!-- GitHub Stats -->
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
@@ -41,7 +40,6 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lovkushbind&theme=cobalt" alt="Lovkushbind" />
 </div>
 
-
 ---
 
 <!-- GitHub Activity Graph -->
@@ -49,6 +47,24 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lovkushbind&theme=dracula"/>
 </div>
+
+---
+
+<!--### 😂 Random Dev Meme
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>   <!-- GitHub Activity Graph -->
+ <!-- </div> 
+
+---
+
+<!-- Spotify Data Card -->
+<!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp4diy5vjb7iaj2kpha4foyree">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp4diy5vjb7iaj2kpha4foyree" alt="Data Card for Spotify">
+</a>
+
+---
+
+![image](https://github.com/user-attachments/assets/b8e41412-8a82-415c-9846-44350d30aac9)
 
 ---
 
@@ -65,4 +81,3 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
     <img src="https://visitcount.itsvg.in/api?id=Lovkushbind&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
   </a>
 </div>
-
