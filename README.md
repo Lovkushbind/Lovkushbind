@@ -67,17 +67,20 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 ---
 <!-- GitHub Stats -->
+<!-- GitHub Stats with Token -->
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkushbind&layout=compact&theme=cobalt" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkushbind&layout=compact&theme=cobalt&cache=none&token=YOUR_GITHUB_TOKEN" alt="Top Languages" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lovkushbind&show_icons=true&locale=en&theme=cobalt" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lovkushbind&show_icons=true&locale=en&theme=cobalt&cache=none&token=YOUR_GITHUB_TOKEN" alt="GitHub Stats" />
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lovkushbind&theme=cobalt" alt="GitHub Streak" />
       </td>
     </tr>
@@ -85,7 +88,6 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 </div>
 
 
----
 
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
