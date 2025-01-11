@@ -23,46 +23,42 @@ https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
 
 
 ## 🔭 What I'm Currently Working On
-- **HMS Brain Activity Analysis**
-- **Big Tech Financial Insights**
+- **DataMark**
+- **Data Entry**
 
-## 👯 I’m Looking to Collaborate On
-- **nanoDNA-nanoROBOT-simulation**
+
 
 ## 🌱 I’m Currently Learning
-- **Advanced NLP techniques and reinforcement learning**
+- **SQL,Python,Power BI,Tableau,Machine Learning,AI (Artificial Intelligence)**
 
-## 💬 Ask Me About
-- **TensorFlow, YOLO, OpenCV, data science, machine learning, computer vision, or artificial intelligence.**
+
 
 ## 📫 How to Reach Me
-- **Email:** piinartp@gmail.com
+- **Email:** lovkushbind9090@gmail.com
 
 ## 👨‍💻 All of My Projects Are Available At
-- [GitHub Repositories](https://github.com/ThecoderPinar)
+- [GitHub Repositories](https://github.com/Lovkushbind)
 
 ## ⚡ Fun Fact
 - **I speak fluent emoji, but my computer never understands my jokes. 😅**
 
 ## 🌍 I'm Passionate About
-- **Making technology accessible and breaking gender barriers in tech.**
+- **I created my personal portfolio website to showcase my skills, projects, and experience.**
   
 ---
 
 ## 🌟 Connect with Me
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/piinartp/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/lovkush-bind-0680aa299/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
-  <a href="https://github.com/ThecoderPinar" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Lovkushbind" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://www.kaggle.com/pinuto" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
-  <a href="https://www.youtube.com/channel/UCpiinartp" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  </a>
+
 </div>
 
 ---
